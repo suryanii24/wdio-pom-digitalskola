@@ -1,2 +1,2 @@
 # wdio-pom-digitalskola
-wdio cucumber sesi 10
+wdio cucumber sesi 11
